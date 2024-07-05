@@ -1,0 +1,141 @@
+body{
+    margin:0px
+}
+
+
+
+#box1{
+    margin-top: -60px;
+    height: 85px;
+    background-color: rgb(245, 205, 30);
+    position: static;
+
+
+}
+
+#box2{
+    margin-top: -17px;
+    height: 400px;
+    width: 1053px;
+    margin-left: 20px;
+    background-color: rgb(43, 43, 43);
+    border-radius: 25px;
+    
+}
+
+#box3{
+    margin-top: -768px;
+    float:right;
+    height: 770px;
+    width: 550px;
+    margin-left: 20px;
+    margin-right: 20px;
+    background-color: rgb(43, 43, 43);
+    border-radius: 25px;
+    
+}
+
+#box4{
+
+    height: 800px;
+    margin-top: 30px;
+    margin-left: 20px;
+    margin-right: 20px;
+    background-color: rgb(43, 43, 43);
+    border-radius: 25px;
+    
+}
+
+
+h1{
+    font-family: sans-serif;
+    font-size: 50px;
+    font-weight: bold;
+    padding-top: 35px;
+    padding-left: 5.5%;
+    color: aliceblue;
+}
+
+h2{
+    text-shadow: 7px 7px black;
+    font-family: sans-serif;
+    font-size: 70px;
+    font-weight:bolder;
+    color:aliceblue;
+    padding-left: 1%;
+}
+
+h3{
+    font-family: sans-serif;
+    font-size: 40px;
+    font-weight: bold;
+    padding-left: 10%;
+    color: aliceblue;
+    margin-top: 60px;
+}
+
+h4{
+    font-family: sans-serif;
+    font-size: 40px;
+    font-weight: bold;
+    color: aliceblue;
+    margin-top: 0px;
+    padding-left: 37%;
+    padding-top: 20px;
+}
+
+p{
+    font-family: sans-serif;
+    font-size: 22px;
+    padding-left: 5%;
+    padding-right: 20px;
+    color: aliceblue;
+    margin-top: 30px;
+   line-height: 50px;
+}
+
+li{
+    font-family: sans-serif;
+    font-size: 22px;
+    color: aliceblue;
+   line-height: 50px;
+   margin-right: 30px;
+   margin-top: 50px;
+}
+
+#main_image{
+    border-radius: 25px;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+#lower_image{
+    border-radius: 25px;
+    margin-top: -20px;
+    margin-left: 55px;
+}
+
+#lower2_image{
+    border-radius: 25px;
+    margin-top: 55px;
+    margin-left: 55px;
+}
+
+
+button{
+    height: 60px;
+    float: right;
+    margin-top: 13px;
+    margin-right: 50px;
+
+    font-family: sans-serif;
+    font-size: 30px;
+    font-weight:bold;
+    color: rgb(0, 0, 0);
+    border-width: 7px;
+    background-color: rgb(100, 100, 100);
+    border-radius: 25px;
+}
+button:hover{
+    background-color: rgb(43, 43, 43);
+}
